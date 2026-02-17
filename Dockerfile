@@ -26,7 +26,7 @@ RUN mkdir -p /root/.config/ngrok && \
     cat > /root/.config/ngrok/ngrok.yml << EOF
 version: 3
 agent:
-  authtoken: 39K6yZk2YaMCOrSoX0QCf9Dm3MP_2viXDNWmxXVqs1B8McATc
+  authtoken: 39mZUhdaAQYh18O1PT9hFzBSQdi_5KhwnCs1Kb2EUzaJzLnFX
 EOF
 
 EXPOSE 22
